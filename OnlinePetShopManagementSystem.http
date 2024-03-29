@@ -1,0 +1,6 @@
+@OnlinePetShopManagementSystem_HostAddress = http://localhost:5066
+
+GET {{OnlinePetShopManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
