@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>NunitOnlinepetshop</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>32377c92-e92c-4bc5-9cc9-cde63c9adc03</ProjectGuid>
+  <FullPath>C:\Users\kavin.senthil\Desktop\MP_BackEnd\NunitOnlinepetshop\NunitOnlinepetshop.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\.sonarqube\out\1\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

@@ -1,0 +1,1786 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.8.0.0",
+        "fileVersion": "4.8.0-3.23524.11 (f43cd10b)",
+        "semanticVersion": "4.8.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Date' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PetDetails' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 26,
+                  "endLine": 19,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 26,
+                  "endLine": 19,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Users' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 21,
+                  "endLine": 23,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 21,
+                  "endLine": 23,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'petid' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/DumModelAppointment.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/DumModelAppointment.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'userid' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/DumModelAppointment.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 23,
+                  "endLine": 8,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/DumModelAppointment.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 23,
+                  "endLine": 8,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Users' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Orderdetails.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 20,
+                  "endLine": 11,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Orderdetails.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 20,
+                  "endLine": 11,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Accessory' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Orderdetails.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 28,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Orderdetails.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 28,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Users' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 16,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 28,
+                  "endLine": 14,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Accessory' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 16,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 36,
+                  "endLine": 16,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Appointments' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 16,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 35,
+                  "endLine": 18,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PetDetails' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 16,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 33,
+                  "endLine": 20,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Admin' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 16,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 34,
+                  "endLine": 22,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Orderdetails' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 16,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 36,
+                  "endLine": 24,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 21,
+                  "endLine": 69,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 41,
+                  "endLine": 63,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 21,
+                  "endLine": 110,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 41,
+                  "endLine": 104,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 130,
+                  "startColumn": 54,
+                  "endLine": 130,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'path2' in 'string Path.Combine(string path1, string path2)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 63,
+                  "endLine": 217,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'path3' in 'string Path.Combine(string path1, string path2, string path3)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 344,
+                  "startColumn": 78,
+                  "endLine": 344,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 369,
+                  "startColumn": 54,
+                  "endLine": 369,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'path3' in 'string Path.Combine(string path1, string path2, string path3)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 491,
+                  "startColumn": 78,
+                  "endLine": 491,
+                  "endColumn": 105
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'path2' in 'string Path.Combine(string path1, string path2)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 530,
+                  "startColumn": 63,
+                  "endLine": 530,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 601,
+                  "startColumn": 36,
+                  "endLine": 601,
+                  "endColumn": 120
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 603,
+                  "startColumn": 29,
+                  "endLine": 603,
+                  "endColumn": 117
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8601",
+          "level": "warning",
+          "message": "Possible null reference assignment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 610,
+                  "startColumn": 24,
+                  "endLine": 610,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8601",
+          "level": "warning",
+          "message": "Possible null reference assignment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 612,
+                  "startColumn": 30,
+                  "endLine": 612,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8601",
+          "level": "warning",
+          "message": "Possible null reference assignment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 613,
+                  "startColumn": 25,
+                  "endLine": 613,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'users' in 'Task OnlinePetShopController.SendEmailToAdminAsync(User users, PetDetail petDetail)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 619,
+                  "startColumn": 41,
+                  "endLine": 619,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'petDetail' in 'Task OnlinePetShopController.SendEmailToAdminAsync(User users, PetDetail petDetail)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 619,
+                  "startColumn": 57,
+                  "endLine": 619,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'toEmail' in 'Task IEmailService.SendEmailAsync(string toEmail, string subject, string body)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 811,
+                  "startColumn": 52,
+                  "endLine": 811,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "The variable 'ex' is declared but never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 814,
+                  "startColumn": 30,
+                  "endLine": 814,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 386,
+                  "startColumn": 13,
+                  "endLine": 386,
+                  "endColumn": 97
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 572,
+                  "startColumn": 9,
+                  "endLine": 572,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 630,
+                  "startColumn": 9,
+                  "endLine": 630,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 721,
+                  "startColumn": 9,
+                  "endLine": 721,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4663",
+          "level": "warning",
+          "message": "Remove this empty comment",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 595,
+                  "startColumn": 9,
+                  "endLine": 595,
+                  "endColumn": 11
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/Appointment.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 9,
+                  "endLine": 28,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/LoginAdmin.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 8,
+                  "endLine": 17,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetDetail.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 8,
+                  "endLine": 37,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/PetShopDbContext.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Models/User.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 9,
+                  "endLine": 26,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 831,
+                  "startColumn": 14,
+                  "endLine": 831,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'EmailService' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 831,
+                  "startColumn": 14,
+                  "endLine": 831,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 823,
+                  "startColumn": 18,
+                  "endLine": 823,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'IEmailService' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 823,
+                  "startColumn": 18,
+                  "endLine": 823,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Migrations/20240326093029_order%20migration.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 33,
+                  "endLine": 17,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_configuration' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 41,
+                  "endLine": 21,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/appsettings.json",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 27,
+                  "endLine": 10,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 21,
+                  "endLine": 171,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 457,
+                  "startColumn": 21,
+                  "endLine": 457,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 783,
+                  "startColumn": 21,
+                  "endLine": 783,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 191,
+                  "startColumn": 18,
+                  "endLine": 191,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 504,
+                  "startColumn": 18,
+                  "endLine": 504,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 303,
+                  "startColumn": 18,
+                  "endLine": 303,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 430,
+                  "startColumn": 18,
+                  "endLine": 430,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 753,
+                  "startColumn": 18,
+                  "endLine": 753,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}/Image' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 333,
+                  "startColumn": 18,
+                  "endLine": 333,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0023",
+          "level": "warning",
+          "message": "Route '{id}/Image' conflicts with another action route. An HTTP request that matches multiple routes results in an ambiguous match error. Fix the conflict by changing the route's pattern, HTTP method, or route constraints.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 480,
+                  "startColumn": 18,
+                  "endLine": 480,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "Please review this hard-coded password.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 839,
+                  "startColumn": 34,
+                  "endLine": 839,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'checkuser' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 21,
+                  "endLine": 69,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'checkuser' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 21,
+                  "endLine": 110,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kavin.senthil/Desktop/MP_BackEnd/OnlinePetShopManagementSystem/Controllers/OnlinePetShopController.cs",
+                "region": {
+                  "startLine": 817,
+                  "startColumn": 17,
+                  "endLine": 817,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "ASP0023": {
+          "id": "ASP0023",
+          "shortDescription": "Route conflict detected between controller actions",
+          "defaultLevel": "warning",
+          "helpUri": "https://aka.ms/aspnet/analyzers",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true
+          }
+        },
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declare types in namespaces",
+          "fullDescription": "Types are declared in namespaces to prevent name collisions and as a way to organize related types in an object hierarchy.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "Variable is declared but never used",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Async method lacks 'await' operators and will run synchronously",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Converting null literal or possible null value to non-nullable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8601": {
+          "id": "CS8601",
+          "shortDescription": "Possible null reference assignment.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8601)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Dereference of a possibly null reference.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1186": {
+          "id": "S1186",
+          "shortDescription": "Methods should not be empty",
+          "fullDescription": "An empty method is generally considered bad practice and can lead to confusion, readability, and maintenance issues. Empty methods bring no functionality and are misleading to others as they might think the method implementation fulfills a specific and identified requirement.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1186",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2259": {
+          "id": "S2259",
+          "shortDescription": "Null pointers should not be dereferenced",
+          "fullDescription": "Accessing a null value will always throw a NullReferenceException most likely causing an abrupt program termination.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2259",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3626": {
+          "id": "S3626",
+          "shortDescription": "Jump statements should not be redundant",
+          "fullDescription": "Jump statements, such as return, yield break, goto, and continue let you change the default flow of program execution, but jump statements that direct the control flow to the original direction are just a waste of keystrokes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3626",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields which are written but never read are a case of \"dead store\". Changing the value of such a field is useless and most probably indicates an error in the code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4663": {
+          "id": "S4663",
+          "shortDescription": "Comments should not be empty",
+          "fullDescription": "Empty comments like the following don’t improve readability and might indicate an oversight.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4663",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

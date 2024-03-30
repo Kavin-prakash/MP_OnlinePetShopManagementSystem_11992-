@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WlxF7fPlwTImtslHC/S5Ac7h1Z5ral8lPi0QuSKnXUM=",
+  "Hash": "zBRdQD/k2RJywWPdYQBQEzj67H1srQBxh/ejPZ+oZKU=",
   "Source": "OnlinePetShopManagementSystem",
   "BasePath": "_content/OnlinePetShopManagementSystem",
   "Mode": "Default",
@@ -207,6 +207,25 @@
       "OriginalItemSpec": "wwwroot\\Images\\2b13ec8c-0abc-4d35-9f8b-f08098c4af22_dog3.webp"
     },
     {
+      "Identity": "C:\\Users\\kavin.senthil\\Desktop\\MP_BackEnd\\OnlinePetShopManagementSystem\\wwwroot\\Images\\2bcb7f25-457a-486a-90e9-ea5148cbe623_pitbull.jpg",
+      "SourceId": "OnlinePetShopManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kavin.senthil\\Desktop\\MP_BackEnd\\OnlinePetShopManagementSystem\\wwwroot\\",
+      "BasePath": "_content/OnlinePetShopManagementSystem",
+      "RelativePath": "Images/2bcb7f25-457a-486a-90e9-ea5148cbe623_pitbull.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2bcb7f25-457a-486a-90e9-ea5148cbe623_pitbull.jpg"
+    },
+    {
       "Identity": "C:\\Users\\kavin.senthil\\Desktop\\MP_BackEnd\\OnlinePetShopManagementSystem\\wwwroot\\Images\\32745c6d-4198-4011-858f-6d30da456213_cat3.jpeg",
       "SourceId": "OnlinePetShopManagementSystem",
       "SourceType": "Discovered",
@@ -262,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\3654f3b8-73fd-4e6f-aff3-d53363166c60_pf2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\kavin.senthil\\Desktop\\MP_BackEnd\\OnlinePetShopManagementSystem\\wwwroot\\Images\\392643f2-ffa7-4608-962f-cf2fb019a017_pitbull.jpg",
+      "SourceId": "OnlinePetShopManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kavin.senthil\\Desktop\\MP_BackEnd\\OnlinePetShopManagementSystem\\wwwroot\\",
+      "BasePath": "_content/OnlinePetShopManagementSystem",
+      "RelativePath": "Images/392643f2-ffa7-4608-962f-cf2fb019a017_pitbull.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\392643f2-ffa7-4608-962f-cf2fb019a017_pitbull.jpg"
     },
     {
       "Identity": "C:\\Users\\kavin.senthil\\Desktop\\MP_BackEnd\\OnlinePetShopManagementSystem\\wwwroot\\Images\\3956df2d-f70d-48de-a837-779f3e56b9fa_pb1.webp",

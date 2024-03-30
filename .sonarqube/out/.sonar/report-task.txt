@@ -1,0 +1,6 @@
+projectKey=MP_OPMS_CodeQuality_11992
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=MP_OPMS_CodeQuality_11992
+ceTaskId=AY6OEyt4PWTDsCecai6I
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY6OEyt4PWTDsCecai6I

@@ -118,9 +118,6 @@ namespace OnlinePetShopManagementSystem.Controllers
 
 
 
-
-
-
         // ----------------------Methods for creating Pet details------------------////////
 
         [HttpPost]

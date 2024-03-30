@@ -136,3 +136,4 @@ C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\obj\Debu
 C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\obj\Debug\net8.0\OnlinePetShopManagementSystem.genruntimeconfig.cache
 C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\obj\Debug\net8.0\ref\OnlinePetShopManagementSystem.dll
 C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\bin\Debug\net8.0\OnlinePetShopManagementSystem.staticwebassets.runtime.json
+C:\Users\kavin.senthil\Desktop\MP_BackEnd\OnlinePetShopManagementSystem\obj\Debug\net8.0\OnlinePetShopManagementSystem.sourcelink.json

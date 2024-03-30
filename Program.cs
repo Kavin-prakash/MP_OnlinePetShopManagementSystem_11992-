@@ -26,11 +26,10 @@ builder.Services.AddCors();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+
 
 app.UseCors(options => options.WithOrigins("http://localhost:3000")
     .AllowAnyMethod()
@@ -38,9 +37,10 @@ app.UseCors(options => options.WithOrigins("http://localhost:3000")
 
 app.UseStaticFiles(new StaticFileOptions
 {
-    FileProvider = new PhysicalFileProvider(Path.Combine(app.Environment.WebRootPath, "images")),
-    RequestPath = "/wwwroot/images"
+    FileProvider = new PhysicalFileProvider(Path.Combine(app.Environment.WebRootPath, "Images")),
+    RequestPath = "/wwwroot/Images"
 });
+
 
 
 app.UseAuthorization();
